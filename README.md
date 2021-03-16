@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on just about anything! I'm looking for any and all experience I can gain as I'm new to the field :~)
 - 📫 How to reach me ...
-LinkedIn - https://www.linkedin.com/in/mable-palombo/
-Email - mable.palombo@gmail.com
-Discord - marble#1303
+  - LinkedIn - https://www.linkedin.com/in/mable-palombo/
+  - Email - mable.palombo@gmail.com
+  - Discord - marble#1303
 
 <!---
 largemable/largemable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
