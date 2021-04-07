@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @largemable
 - 👀 I’m interested in front-end engineering, design, music, and video games! 
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning Python and React Native!
 - 💞️ I’m looking to collaborate on just about anything! I'm looking for any and all experience I can gain as I'm new to the field :~)
 - 📫 How to reach me ...
   - LinkedIn - https://www.linkedin.com/in/mable-palombo/
