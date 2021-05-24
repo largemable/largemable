@@ -1,5 +1,5 @@
 
-<h1> 👋 Hi, I’m Mable </h1>
+<h1 align=center height=50px backgroundcolor=yellow> Hi, I’m Mable </h1>
 
 - 👀 I’m interested in front-end engineering, design, music, and video games! 
 - 🌱 I’m currently learning Python and React Native!
