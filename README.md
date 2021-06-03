@@ -1,9 +1,9 @@
 
 <h1> Hi, I’m Mable </h1>
 
-- 👀 I’m interested in front-end engineering, design, music, and video games! 
+- 👀 I’m interested in full-stack engineering, design, music, and video games! 
 - 🌱 I’m currently learning Python and React Native!
-- 💞️ I’m looking to collaborate on just about anything! I'm looking for any and all experience I can gain as I'm new to the field :~)
+- 💞️ I'm looking for any and all experience I can gain as I'm new to the field, and I am open to collaborating on projects :~)
 - 📫 How to reach me ...
   - LinkedIn - https://www.linkedin.com/in/mable-palombo/
   - Email - mable.palombo@gmail.com
