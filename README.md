@@ -21,6 +21,6 @@ Skills and Languages :
   - Javascript, HTML, CSS, React, Bootstrap, Node, Express, MongoDB, Python, DjangoDB, Postgres, PhotoShop, CSS Grid and Flex
 
 When I'm not on my computer you can find me :   
-  playing music, riding my bike, climbing trees, jumping into lake michigan
+  - playing music, riding my bike, climbing trees, jumping into lake michigan
   
 :tulip:
