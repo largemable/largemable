@@ -9,6 +9,15 @@
   - Email - mable.palombo@gmail.com
   - Discord - marble#1303
 
+Check out some of my projects :
+
+
+https://github.com/largemable/finsta-react
+https://github.com/team-caffeine-dreams
+https://github.com/largemable/PKDatabase
+https://github.com/largemable/dog-flashcards
+
+
 <!---
 largemable/largemable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
