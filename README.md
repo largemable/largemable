@@ -12,10 +12,10 @@
 Check out some of my projects :
 
 
-https://github.com/largemable/finsta-react
-https://github.com/team-caffeine-dreams
-https://github.com/largemable/PKDatabase
-https://github.com/largemable/dog-flashcards
+- https://github.com/largemable/finsta-react
+- https://github.com/team-caffeine-dreams
+- https://github.com/largemable/PKDatabase
+- https://github.com/largemable/dog-flashcards
 
 
 <!---
