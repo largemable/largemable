@@ -1,7 +1,7 @@
 
 <h1> Hi, I’m Mable </h1>
 
-- 👀 I’m interested in full-stack engineering, design, music, and video games! 
+- 👀 I’m interested in web development, design, music, and video games! 
 - 🌱 I’m currently learning Python and React Native!
 - 💞️ I'm looking for any and all experience I can gain as I'm new to the field, and I am open to collaborating on projects :sunflower:
 - 📫 How to reach me ...
